@@ -47,3 +47,21 @@ We are on [Discord](https://the-algorithms.com/discord)! Community channels are 
 ## 📜 List of Algorithms
 
 See our [directory](DIRECTORY.md) for easier navigation and a better overview of the project.
+
+---
+
+## Beginner Contribution Example
+
+This section demonstrates a contribution using the Git and GitHub fork-and-pull request workflow.
+
+### Changes Made
+- Added documentation explaining the contribution workflow.
+- Described creating a feature branch.
+- Explained committing and pushing changes.
+- Documented the pull request review process.
+
+### Tools Used
+- Git
+- GitHub
+- Visual Studio Code
+
